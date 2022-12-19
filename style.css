@@ -1,0 +1,36 @@
+form{
+    text-align: center;
+}
+input[type="number"]{
+    margin-top: 100px;
+}
+input[type="button"]{
+    margin-top: 60px;
+    display: inline-block;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 10px;
+    padding: 8px 16px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #2d3748;
+    border: 1px solid #cbd5e0;
+    line-height: 26px;
+}
+table{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+td{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
+tr{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
